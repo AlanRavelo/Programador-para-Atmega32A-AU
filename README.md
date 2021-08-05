@@ -16,11 +16,3 @@ Una entrada USBasp para realizar la programación a través del puerto USB (Miso
 Posee la instalación de regulares de tensión: +3.3 V (LD33), +5 V (78L05 - 7805), +9 V (7809), +12 V (7812).
 ## Atmel:
 
-
-<img width="564" alt="Programador_Atmega32A-AU_2" src="https://user-images.githubusercontent.com/88397949/128288227-96a1b953-ec49-4a64-b912-4dcdb61b15ec.png">
-
-
-<img width="513" alt="Programador_Atmega32A-AU_4" src="https://user-images.githubusercontent.com/88397949/128287888-4dc42a30-e98e-4629-afc3-4ce671d64494.png">
-
-<img width="749" alt="Programador_Atmega32A-AU_3" src="https://user-images.githubusercontent.com/88397949/128287898-d93f2592-9b17-4dd7-9cdb-7552d1d33e93.png">
-
