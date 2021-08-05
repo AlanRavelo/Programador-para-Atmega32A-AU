@@ -5,6 +5,8 @@ Programador para Atmega32A-AU
 
 ![Programador_Atmega32A-AU](https://user-images.githubusercontent.com/88397949/128107460-db06f507-0964-4fbc-8b99-36625a24310a.png)
 
+
+
 ## Descripción:
 Diseño de una placa que distribuye los 44 pines del Atmega32A-AU. El microcontrolador (uC) es ubicado sobre una placa independiente de forma que, si se presentarán posibles fallas en el uC, su extracción no efectará a la placa principal.
 La placa incorpora 12 pulsadores: 10 teclado principal (PB 0-7), 1 reset y 1 endorer PD4. El puerto A (PortA) destinado para un display LCD.
