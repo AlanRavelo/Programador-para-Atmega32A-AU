@@ -3,7 +3,7 @@ En ejecución: 90%
 Programador para Atmega32A-AU
 ================================
 
-![Programador_Atmega32A-AU](https://user-images.githubusercontent.com/88397949/128286223-6b919616-76cc-4cbf-b822-399edab42264.png)
+![Programador_Atmega32A-AU_5](https://user-images.githubusercontent.com/88397949/129969175-90fae21a-e60c-4ffb-a119-ba28c528795d.png)
 
 
 
